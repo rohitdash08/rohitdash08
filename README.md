@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Devops, Web3**
 
-- 👯 I’m looking to collaborate on **Full-Stack developement**
+- 👯 I’m looking to collaborate on **Full-Stack Projectsw**
 
 - 🤝 I’m looking for help with **AI Sales Rep**
 
