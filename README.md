@@ -42,7 +42,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I love hacking**
 
-<h3 align="left" style="color: #ffffff;">Connect with me:</h3>
+<h3 align="left" style="color: #ffffff;">
+    Connect with me: <a href="mailto:rohitdash08@gmail.com" style="color: #ffffff;">rohitdash08@gmail.com</a>
+</h3>
+
 
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
 <p align="left"> 
