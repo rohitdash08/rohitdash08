@@ -16,27 +16,15 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist
 
-      # Run the snake animation generator for light mode
-      - uses: Platane/snk@v3
-        id: snake-gif-light
-        with:
-          github_user_name: rohitdash08
-
-      # Move the generated SVG to the 'dist' folder for light mode
-      - name: Move snake gif to dist (light mode)
-        run: |
-          mv ./github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg || echo "Light mode SVG not found."
-
-      # Run the snake animation generator for dark mode
-      - uses: Platane/snk@v3
-        id: snake-gif-dark
-        with:
-          github_user_name: rohitdash08
-
       # Move the generated SVG to the 'dist' folder for dark mode
-      - name: Move snake gif to dist (dark mode)
-        run: |
-          mv ./github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg || echo "Dark mode SVG not found."
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Debug step to ensure 'dist' directory and snake files exist
       - name: List dist directory contents
