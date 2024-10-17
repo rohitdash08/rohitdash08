@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Rohit+Dash's+Profile!;Full-Stack+Python+Developer;4%2B+Years+of+Experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=32" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Rohit+Dash's+Profile!;Full-Stack+Python+Developer;4%2B+Years+of+Experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
 </div>
 
 <p align="center">
