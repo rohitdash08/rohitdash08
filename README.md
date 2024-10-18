@@ -106,9 +106,6 @@
   <a href="https://github.com/rohitdash08/nft-marketplace">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitdash08&repo=nft-marketplace&theme=radical" alt="NFT Marketplace" />
   </a>
-  <a href="https://github.com/rohitdash08/ai-sales-rep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitdash08&repo=ai-sales-rep&theme=radical" alt="AI Sales Rep" />
-  </a>
 </p>
 
 <p align="center">
