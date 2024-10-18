@@ -32,18 +32,25 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: left; padding-right: 20px;">
+    <ul>
+      <li>🔭 I'm currently working on an <strong>NFT Marketplace</strong></li>
+      <li>🌱 I'm currently learning <strong>DevOps, Web3, Docker & K8s</strong></li>
+      <li>👯 I'm looking to collaborate on <strong>Full-Stack Projects</strong></li>
+      <li>🤝 I'm looking for help with an <strong>AI Sales Rep</strong></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://rohitdash.netlify.app/">https://rohitdash.netlify.app/</a></li>
+      <li>💬 Ask me about <strong>TypeScript, React, Next.js, Node.js, Microsoft Azure, and any general software development questions</strong></li>
+      <li>📫 How to reach me: <strong>rohitdash08@gmail.com</strong></li>
+      <li>⚡ Fun fact: <strong>I love hacking</strong></li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+  </div>
+</div>
 
-- 🔭 I'm currently working on an **NFT Marketplace**
-- 🌱 I'm currently learning **DevOps, Web3, Docker & K8s**
-- 👯 I'm looking to collaborate on **Full-Stack Projects**
-- 🤝 I'm looking for help with an **AI Sales Rep**
-- 👨‍💻 All of my projects are available at [https://rohitdash.netlify.app/](https://rohitdash.netlify.app/)
-- 💬 Ask me about **TypeScript, React, Next.js, Node.js, Microsoft Azure, and any general software development questions**
-- 📫 How to reach me: **rohitdash08@gmail.com**
-- ⚡ Fun fact: **I love hacking**
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
