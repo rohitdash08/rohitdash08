@@ -32,25 +32,18 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+</p>
 
-🔭 I'm currently working on an NFT Marketplace
-🌱 I'm currently learning DevOps, Web3, Docker & K8s
-👯 I'm looking to collaborate on Full-Stack Projects
-🤝 I'm looking for help with an AI Sales Rep
-👨‍💻 All of my projects are available at https://rohitdash.netlify.app/
-💬 Ask me about TypeScript, React, Next.js, Node.js, Microsoft Azure, and any general software development questions
-📫 How to reach me: rohitdash08@gmail.com
-⚡ Fun fact: I love hacking
-
-</td>
-<td width="40%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="350" align="right"/>
-</td>
-</tr>
-</table>
+- 🔭 I'm currently working on an **NFT Marketplace**
+- 🌱 I'm currently learning **DevOps, Web3, Docker & K8s**
+- 👯 I'm looking to collaborate on **Full-Stack Projects**
+- 🤝 I'm looking for help with an **AI Sales Rep**
+- 👨‍💻 All of my projects are available at [https://rohitdash.netlify.app/](https://rohitdash.netlify.app/)
+- 💬 Ask me about **TypeScript, React, Next.js, Node.js, Microsoft Azure, and any general software development questions**
+- 📫 How to reach me: **rohitdash08@gmail.com**
+- ⚡ Fun fact: **I love hacking**
 
 
 <p align="center">
