@@ -144,6 +144,9 @@
   </picture>
 </p>
 
+## 🏆 Holopin Badges
+[![An image of @rohitdash08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitdash08)](https://holopin.io/@rohitdash08)
+
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 </p>
