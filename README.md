@@ -17,6 +17,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitdash08&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile Visits" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitdash08&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdash08" />
 </p>
 
