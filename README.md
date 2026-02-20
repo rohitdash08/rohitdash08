@@ -94,17 +94,17 @@ Repository: `https://github.com/rohitdash08/nft-marketplace`
 
 ## GitHub Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitdash08&show_icons=true&theme=radical" alt="rohitdash08's GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdash08&theme=radical" alt="rohitdash08's GitHub streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdash08&layout=compact&theme=radical" alt="rohitdash08's top languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitdash08&theme=radical" alt="rohitdash08's GitHub Stats Graph"/>
