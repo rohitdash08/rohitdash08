@@ -144,8 +144,8 @@ Repository: `https://github.com/rohitdash08/nft-marketplace`
 
 ---
 
-### Closing
-Thanks for visiting — feel free to ⭐ any repositories you find useful.
+### Thanks for visiting — feel free to ⭐ any repositories you find useful.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
