@@ -3,58 +3,76 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Rohit+Dash's+Profile!;Full-Stack+Python+Developer;4%2B+Years+of+Experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Rohit+Dash's+Profile!;Full-Stack+Python+Developer;6%2B+Years+of+Experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
 </div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  Welcome to Rohit Dash's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h1>
+# <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Rohit Dash — Full-Stack Python Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitdash08&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdash08" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohitdash08&theme=dracula&no-frame=true&row=1&column=7" alt="rohitdash08" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-</p>
+## Professional Summary
+Experienced Full-Stack developer focused on building scalable, production-ready web applications and APIs. Strong background in backend systems (Python/Django), modern frontend frameworks, database design, and cloud-native deployment. Proven track record delivering end-to-end solutions — from architecture and implementation to CI/CD and monitoring.
 
-<h2 align="center">🚀 About Me</h2>
+- ✅ 6+ years building full-stack products and developer tools  
+- ✅ Focus areas: Web APIs, cloud infrastructure, containerization, and performance
+- ✅ Fluent in Python, TypeScript and production-grade JavaScript runtimes
+
+---
+
+## Tech Stack (organized & production-ready)
+
+**Frontend**
+- React · TypeScript · Next.js · Tailwind CSS · Vite
+
+**Backend & APIs**
+- Python · Django · FastAPI · Node.js · Fastify · Express
+
+**Databases**
+- PostgreSQL · MongoDB · Redis
+
+**DevOps & Cloud**
+- AWS · Docker · Kubernetes · Microsoft Azure · CI/CD (GitHub Actions)
+
+**Testing, Monitoring & Tools**
+- PyTest · Postman · Git · Sentry · Prometheus/Grafana
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
 </p>
 
-- 🔭 I'm currently working on an **NFT Marketplace**
-- 🌱 I'm currently learning **DevOps, Web3, Docker & K8s**
-- 👯 I'm looking to collaborate on **Full-Stack Projects**
-- 🤝 I'm looking for help with an **AI Sales Rep**
-- 👨‍💻 All of my projects are available at [https://rohitdash.netlify.app/](https://rohitdash.netlify.app/)
-- 💬 Ask me about **TypeScript, React, Next.js, Node.js, Microsoft Azure, and any general software development questions**
-- 📫 How to reach me: **rohitdash08@gmail.com**
-- ⚡ Fun fact: **I love hacking**
+---
 
+## Core Competencies
+- System architecture & API design (REST / GraphQL)
+- Scalable data models & relational schema design
+- Containerization and orchestration (Docker & K8s)
+- Cloud deployments and cost-conscious operations
+- Performance tuning, caching strategies, and observability
+- Security best practices and secure authentication flows
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-</p>
+---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+## Selected Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-</p>
+### NFT Marketplace
+A production-ready marketplace with wallet integration, on-chain listing flow, and server-side indexing for performant discovery.  
+Repository: `https://github.com/rohitdash08/nft-marketplace`
+
+*(Pinned below in Featured Projects)*
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -73,11 +91,8 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitdash08&show_icons=true&theme=radical" alt="rohitdash08's GitHub stats" />
@@ -95,24 +110,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitdash08&theme=radical" alt="rohitdash08's GitHub Stats Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-</p>
+---
 
-<h2 align="center">🌟 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/rohitdash08/nft-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitdash08&repo=nft-marketplace&theme=radical" alt="NFT Marketplace" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-</p>
-
-<h2 align="center">🤝 Connect with me</h2>
-
+## Connect
 <p align="center">
   <a href="https://linkedin.com/in/rohitdash" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -128,11 +128,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-</p>
+---
 
-<h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center">📈 Activity & Visuals</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdash08&theme=react-dark" alt="Contribution Graph" />
@@ -144,13 +142,10 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-</p>
+---
 
-<h3 align="center">
-  Thanks for visiting! Don't forget to ⭐ some repositories!
-</h3>
+### Closing
+Thanks for visiting — feel free to ⭐ any repositories you find useful.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
