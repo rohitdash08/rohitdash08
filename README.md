@@ -27,7 +27,7 @@ Experienced Full-Stack developer focused on building scalable, production-ready 
 
 ---
 
-## Tech Stack (organized & production-ready)
+## Tech Stack
 
 **Frontend**
 - React · TypeScript · Next.js · Tailwind CSS · Vite
